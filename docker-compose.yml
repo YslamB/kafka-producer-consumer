@@ -93,7 +93,7 @@ networks:
 # docker exec kafka /opt/kafka/bin/kafka-topics.sh --create \
 #   --topic test-topic2 \
 #   --bootstrap-server localhost:9092 \
-#   --partitions 3 \
+#   --partitions 2 \
 #   --replication-factor 1
 
 # Describe topic
